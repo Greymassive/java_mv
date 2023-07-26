@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="9.3">
-<file name="C:\java_works\jvm\src\main\java\BonusService.java">
-<error line="3" column="13" severity="error" message="Name &apos;Percent&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
-</file>
-<file name="C:\java_works\jvm\src\main\java\Main.java">
-</file>
-</checkstyle>
